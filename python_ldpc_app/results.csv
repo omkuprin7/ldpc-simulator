@@ -1,0 +1,7 @@
+snr_db,ber,fer,avg_normalized_llr,total_blocks,successful_blocks,failed_blocks,avg_convergence_iterations,matrix_path,modulation,max_iterations,interleaver,encoding_method
+0.0,0.021666666666666667,1.0,0.0,50,0,50,0.0,../Channel_Codes_Database/Wimax LDPC Codes/wimax_576_0.5.alist.txt,1,5,none,standard
+1.0,0.005277777777777778,0.94,0.0,50,3,47,0.0,../Channel_Codes_Database/Wimax LDPC Codes/wimax_576_0.5.alist.txt,1,5,random,standard
+2.0,0.005138888888888889,0.36,0.011041666666666663,50,32,18,1.125,../Channel_Codes_Database/Wimax LDPC Codes/wimax_576_0.5.alist.txt,1,5,random,standard
+3.0,0.0,0.0,0.07708333333333331,50,50,0,1.02,../Channel_Codes_Database/Wimax LDPC Codes/wimax_576_0.5.alist.txt,1,5,random,standard
+4.0,0.0,0.0,0.02333333333333333,50,50,0,1.0,../Channel_Codes_Database/Wimax LDPC Codes/wimax_576_0.5.alist.txt,1,5,random,standard
+5.0,0.0,0.0,0.003263888888888889,50,50,0,1.0,../Channel_Codes_Database/Wimax LDPC Codes/wimax_576_0.5.alist.txt,1,5,random,standard

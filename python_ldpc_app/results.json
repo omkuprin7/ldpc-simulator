@@ -1,0 +1,175 @@
+{
+  "config": {
+    "matrix_path": "../Channel_Codes_Database/Wimax LDPC Codes/wimax_576_0.5.alist.txt",
+    "n": 576,
+    "m": 288,
+    "k": 288,
+    "rate": 0.5,
+    "blocks": 50,
+    "max_iterations": 5,
+    "encoding_method": "standard",
+    "interleaver_type": "none",
+    "decoder_type": "sumproduct",
+    "channel_mode": 1,
+    "modulation": 1,
+    "speed": 1.0,
+    "snr_range": [
+      0.0,
+      5.0,
+      1.0
+    ],
+    "threads": 1,
+    "timestamp": "2026-02-12T17:35:04.773709",
+    "interference_snr": 1.0,
+    "p": 0.1
+  },
+  "snr_points": [
+    {
+      "snr_db": 0.0,
+      "ber": 0.021666666666666667,
+      "fer": 1.0,
+      "avg_normalized_llr": 0.0,
+      "total_blocks": 50,
+      "successful_blocks": 0,
+      "failed_blocks": 50,
+      "avg_convergence_iterations": 0.0,
+      "matrix_path": "../Channel_Codes_Database/Wimax LDPC Codes/wimax_576_0.5.alist.txt",
+      "modulation": 1,
+      "max_iterations": 5,
+      "interleaver": "none",
+      "encoding_method": "standard"
+    },
+    {
+      "snr_db": 1.0,
+      "ber": 0.005277777777777778,
+      "fer": 0.94,
+      "avg_normalized_llr": 0.0,
+      "total_blocks": 50,
+      "successful_blocks": 3,
+      "failed_blocks": 47,
+      "avg_convergence_iterations": 0.0,
+      "matrix_path": "../Channel_Codes_Database/Wimax LDPC Codes/wimax_576_0.5.alist.txt",
+      "modulation": 1,
+      "max_iterations": 5,
+      "interleaver": "random",
+      "encoding_method": "standard"
+    },
+    {
+      "snr_db": 2.0,
+      "ber": 0.005138888888888889,
+      "fer": 0.36,
+      "avg_normalized_llr": 0.011041666666666663,
+      "total_blocks": 50,
+      "successful_blocks": 32,
+      "failed_blocks": 18,
+      "avg_convergence_iterations": 1.125,
+      "matrix_path": "../Channel_Codes_Database/Wimax LDPC Codes/wimax_576_0.5.alist.txt",
+      "modulation": 1,
+      "max_iterations": 5,
+      "interleaver": "random",
+      "encoding_method": "standard"
+    },
+    {
+      "snr_db": 3.0,
+      "ber": 0.0,
+      "fer": 0.0,
+      "avg_normalized_llr": 0.07708333333333331,
+      "total_blocks": 50,
+      "successful_blocks": 50,
+      "failed_blocks": 0,
+      "avg_convergence_iterations": 1.02,
+      "matrix_path": "../Channel_Codes_Database/Wimax LDPC Codes/wimax_576_0.5.alist.txt",
+      "modulation": 1,
+      "max_iterations": 5,
+      "interleaver": "random",
+      "encoding_method": "standard"
+    },
+    {
+      "snr_db": 4.0,
+      "ber": 0.0,
+      "fer": 0.0,
+      "avg_normalized_llr": 0.02333333333333333,
+      "total_blocks": 50,
+      "successful_blocks": 50,
+      "failed_blocks": 0,
+      "avg_convergence_iterations": 1.0,
+      "matrix_path": "../Channel_Codes_Database/Wimax LDPC Codes/wimax_576_0.5.alist.txt",
+      "modulation": 1,
+      "max_iterations": 5,
+      "interleaver": "random",
+      "encoding_method": "standard"
+    },
+    {
+      "snr_db": 5.0,
+      "ber": 0.0,
+      "fer": 0.0,
+      "avg_normalized_llr": 0.003263888888888889,
+      "total_blocks": 50,
+      "successful_blocks": 50,
+      "failed_blocks": 0,
+      "avg_convergence_iterations": 1.0,
+      "matrix_path": "../Channel_Codes_Database/Wimax LDPC Codes/wimax_576_0.5.alist.txt",
+      "modulation": 1,
+      "max_iterations": 5,
+      "interleaver": "random",
+      "encoding_method": "standard"
+    }
+  ],
+  "wall_clock_seconds": 237.73820114135742,
+  "adaptation_log": [
+    {
+      "snr_db": 0.0,
+      "matrix_path": "../Channel_Codes_Database/Wimax LDPC Codes/wimax_576_0.5.alist.txt",
+      "rate": 0.5,
+      "modulation": 1,
+      "max_iterations": 5,
+      "interleaver": "none",
+      "encoding_method": "standard"
+    },
+    {
+      "snr_db": 1.0,
+      "matrix_path": "../Channel_Codes_Database/Wimax LDPC Codes/wimax_576_0.5.alist.txt",
+      "rate": 0.5,
+      "modulation": 1,
+      "max_iterations": 5,
+      "interleaver": "random",
+      "encoding_method": "standard"
+    },
+    {
+      "snr_db": 2.0,
+      "matrix_path": "../Channel_Codes_Database/Wimax LDPC Codes/wimax_576_0.5.alist.txt",
+      "rate": 0.5,
+      "modulation": 1,
+      "max_iterations": 5,
+      "interleaver": "random",
+      "encoding_method": "standard"
+    },
+    {
+      "snr_db": 3.0,
+      "matrix_path": "../Channel_Codes_Database/Wimax LDPC Codes/wimax_576_0.5.alist.txt",
+      "rate": 0.5,
+      "modulation": 1,
+      "max_iterations": 5,
+      "interleaver": "random",
+      "encoding_method": "standard"
+    },
+    {
+      "snr_db": 4.0,
+      "matrix_path": "../Channel_Codes_Database/Wimax LDPC Codes/wimax_576_0.5.alist.txt",
+      "rate": 0.5,
+      "modulation": 1,
+      "max_iterations": 5,
+      "interleaver": "random",
+      "encoding_method": "standard"
+    },
+    {
+      "snr_db": 5.0,
+      "matrix_path": "../Channel_Codes_Database/Wimax LDPC Codes/wimax_576_0.5.alist.txt",
+      "rate": 0.5,
+      "modulation": 1,
+      "max_iterations": 5,
+      "interleaver": "random",
+      "encoding_method": "standard"
+    }
+  ]
+}
